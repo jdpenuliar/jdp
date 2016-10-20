@@ -1,10 +1,15 @@
 import React from 'react';
-import { AppRegistry, Text } from 'react-native';
+import { AppRegistry, View } from 'react-native';
+// import Header from './src/components/Header';
+import Body from './src/components/Body';
 
 const App = () => (
-     <Text>
-          haha
-     </Text>
+     <View style={{ flex: 1 }}>
+
+          <Body />
+     </View>
+
+
 );
 
 AppRegistry.registerComponent('jdp', () => App);

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.35.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="db2c76df02d034e8d49bca2a69af788a787b46b2">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-7204359932bdc80e277dd08fc1dd77887aa0130e.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-127abf41954fb62be7e3cad497acb284f1a87309.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-0274b9ac6e60caaed9240aa309138aadf0e4d460.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/classes-248e547f14eb25142a4038b4bd09a23f566fda7d.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-93440b0dd97c2f0d1ac4b2ca6415fde0b5fded5e.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/classes-0ed709663e6294f1b119280f36d874705b5719be.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/classes-7713ec57c8eccdff89aee773a924b08345caa562.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/classes-5cd129060ce9c40b2bfd199bcd20640f8fbc9dfc.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.35.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cdc91752c90040ec7871c44963c63c751b1fa94b">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/classes-f139b0a07cdd58bd5a82645c6a6cf61e37695ac7.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/classes-fbcfc3678f291a953f8cf9271a77909325fcddd4.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-41d20acb3c36c1c42dbfbdc417c519c928bcd2a7.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/classes-7d1c3a3c89147099648d0bf5b8155b41775081b2.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-08f80285f7a50751fdf31037be923869b8ec6417.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/classes-84669c01ac5e9decefc8e0abab8f900cf86e7ad3.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/classes-2484bf053401331f97e98544ffeefad5d0e6fbc0.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-afa1a90a93d6dbeb47b928b7cd6d8180bffeba7c.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-a68ba291d7a325e14475d9df1dc52417cbbfbe2b.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/classes-3dc6ebfb2f42b886346faf7c1113a52f9a9eb945.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-dbf4fa5ab368f4243d028a533e766f6d13634720.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-fb8be34d8bba10a6004c6cc960495ceb7728a643.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-ec215f5d92d11e0b585fa817f4262910f710cb47.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-9eeadd354039226667ff09a0b7b520dec6b04bfc.jar" />
+    </item>
+    <item
+        jar="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/JDPenuliar/Documents/CodingDojo/react/reactnative/jdp/android/app/build/intermediates/pre-dexed/debug/classes-ad2dfd7b160e4d7f267a5b02d1483a126f01a324.jar" />
+    </item>
+
+</items>

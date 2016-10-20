@@ -1,5 +1,6 @@
 import React from 'react';
 import { View, Text } from 'react-native';
+import Contact from './Contact';
 
 //Error from eslint is just a coding aesthetics
 const Header = () => {
@@ -10,8 +11,9 @@ const Header = () => {
                     JD Penuliar
                </Text>
                <Text style={jobStyle}>
-                    Full Stack Web Developer
+                    Full Stack Developer
                </Text>
+               <Contact />
           </View>
 
      );
@@ -22,7 +24,7 @@ const styles = {
           backgroundColor: '#F8F8F8',
           justifyContent: 'center',
           alignItems: 'center',
-          height: 80,
+          height: 110,
           paddingTop: 15,
           shadowColor: '#000',
           shadowOffset: { width: 0, height: 2 },
